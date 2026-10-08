@@ -195,6 +195,4 @@ Compare your executable's output against a reference Scheme implementation (e.g.
 
 
 
-## Acknowledgments
 
-Course materials, skeleton code, and project specification by **Meir Goldberg**, *Principles of Compilation*.
