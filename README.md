@@ -189,9 +189,8 @@ Compare your executable's output against a reference Scheme implementation (e.g.
 
 ## Authors
 
-- **Your Name** - [@your-github-username](https://github.com/your-github-username)
-- **Partner Name** - [@partner-github-username](https://github.com/partner-github-username)
-
+- **Renad Abu Shareb** 
+- **Hadi Aben Hmad** - [@hadi2884]
 ---
 
 ## Academic Integrity Note
