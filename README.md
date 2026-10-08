@@ -193,11 +193,7 @@ Compare your executable's output against a reference Scheme implementation (e.g.
 - **Hadi Aben Hmad**  [@hadi2884](https://github.com/hadi2884) 
 ---
 
-## Academic Integrity Note
 
-This project was completed as university coursework. If you are currently enrolled in a course with a similar assignment, **do not copy this code** — doing so violates academic-integrity policies and defeats the purpose of the exercise. It is shared here for portfolio and reference purposes only.
-
----
 
 ## Acknowledgments
 
