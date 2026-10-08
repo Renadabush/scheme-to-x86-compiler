@@ -190,9 +190,7 @@ Compare your executable's output against a reference Scheme implementation (e.g.
 ## Authors
 
 - **Renad Abu Shareb** 
-- | Name | GitHub |
-|------|--------|
-| Hadi Aben Hmad | [@hadi2884](https://github.com/hadi2884) |
+- **Hadi Aben Hmad**  [@hadi2884](https://github.com/hadi2884) 
 ---
 
 ## Academic Integrity Note
